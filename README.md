@@ -67,9 +67,22 @@ This session is designed to **simulate real IETF collaboration**, encourage acti
 
 ### Initial Material
 
+See [Draft](https://dhruvdhody.github.io/draft-dhody-coffee-at-ietf/draft-dhody-coffee-at-ietf.html)
+
 ### Guidance and Tips
 
+When reviewing the draft, focus on identifying common mistakes and inconsistencies that need to be addressed. Is the draft consistent with the way IETF works? 
+
 ### Deliverable
+
+Produce an improved version of the draft that corrects the identified issues, including:
+
+- Fixing RFC 2119 usage and boilerplate formatting
+- Revising scope-related issues to align with IETF principles
+- Adding a proper Security Considerations section
+- Improving the Abstract for better clarity
+- Ensuring all required sections are included
+- Correcting formatting and author details
 
 ## Group B: **Prepare Slides for the Working Group (WG) meeting**
 
