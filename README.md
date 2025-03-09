@@ -94,23 +94,25 @@ Produce an improved version of the draft that corrects the identified issues, in
 ### Initial Material
 
 [Draft](https://dhruvdhody.github.io/draft-dhody-coffee-at-ietf/draft-dhody-coffee-at-ietf.html)
+
 [Slides](https://docs.google.com/presentation/d/1jfbyscI7XAnpSXO65LUerM_JM1npP9se/edit?usp=sharing&ouid=106264033400188371525&rtpof=true&sd=true)
 
 ### Guidance and Tips
 
-When reviewing slides, focus on readability and identifying common mistakes in slides preperation. 
+When reviewing slides, focus on readability and identifying common mistakes in slides preparation and presentations. 
 
 ### Deliverable
 
 - Unreadable slides – Tiny text, poor contrast, and cluttered information.
 - Proprietary & Confidential footer – Added inappropriate disclaimers.
-- Huawei company logo – Unacceptable branding in IETF slides.
-- Too much corporate language – Unclear if it’s an open standards discussion.
-- Lack of clear structure – No proper agenda, problem statement, or conclusion.
+- Company logo – Unacceptable branding in IETF slides.
+- Too much text
+- No clarity
+- BONUS: identify issues with I-D 
 
 ### Another option for this group
 
-- Prepare slides for this I-D [SOON](https://www.ietf.org/archive/id/draft-farrel-soon-08.html) or something similar?
+- Prepare slides for this I-D [SOON](https://www.ietf.org/archive/id/draft-farrel-soon-08.html) or something similar to present for the first time in IETF?
 
 ## Group C: **Improve a Birds-of-a-Feather (BoF) Proposal and Proposed Charter**
 
