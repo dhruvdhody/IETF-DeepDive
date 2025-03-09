@@ -96,6 +96,7 @@ Produce an improved version of the draft that corrects the identified issues, in
 [Draft](https://dhruvdhody.github.io/draft-dhody-coffee-at-ietf/draft-dhody-coffee-at-ietf.html)
 
 [Slides](https://docs.google.com/presentation/d/1jfbyscI7XAnpSXO65LUerM_JM1npP9se/edit?usp=sharing&ouid=106264033400188371525&rtpof=true&sd=true)
+In case the above link does not work, a snapshot is available [here](./Bad_IETF_Presentation.pptx.pdf)
 
 ### Guidance and Tips
 
