@@ -3,9 +3,7 @@
 The Internet Engineering Task Force (IETF) is a global organization that works on developing and promoting voluntary Internet standards through an open and collaborative process
 IETF meetings are held multiple times a year, bringing together participants from different backgrounds to discuss a wide range of topics related to networking and Internet protocols.
 
-The IETF Coffee Standard (ICS) is an essential component of the global networking ecosystem and is designed to ensure that all meetings have sufficient caffeine to maintain productivity. The importance of this work cannot be overstated. IETF MUST ACT NOW.  
-
-Fill in the details below. Keep items in the order they appear here.
+The IETF Coffee Standard (ICS) is an essential component of the global networking ecosystem and is designed to ensure that all meetings have sufficient caffeine to maintain productivity. The importance of this work cannot be overstated. 
 
 ## Required Details
 - Status: WG Forming
@@ -13,7 +11,7 @@ Fill in the details below. Keep items in the order they appear here.
 - BOF proponents: contact@huawei.com
 - Number of people expected to attend: 1000
 - Length of session (1 or 2 hours): 2 hours
-- Conflicts (whole Areas and/or WGs): Impact all of the IETF
+- Conflicts (whole Areas and/or WGs): whole IETF
    - Chair Conflicts: TBD
    - Technology Overlap: TEAS
    - Key Participant Conflict: ALL
