@@ -123,6 +123,10 @@ When reviewing slides, focus on readability and identifying common mistakes in s
 
 ### Initial Material
 
+[Bof Request](./bof-request.md)
+
+[Proposed Charter](./Proposed-Charter.md)
+
 ### Guidance and Tips
 
 ### Deliverable
