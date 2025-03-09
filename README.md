@@ -130,6 +130,12 @@ When reviewing slides, focus on readability and identifying common mistakes in s
 ### Guidance and Tips
 
 ### Deliverable
+- The scope is vague
+- Lack of clear deliverables – What concrete RFCs or documents will be produced?
+- Unrealistic scope creep
+- Lack of milestones
+- Lack of focus
+- Boundary with other
 
 ##  Other Backup Ideas for breakouts
 
