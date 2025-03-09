@@ -86,16 +86,31 @@ Produce an improved version of the draft that corrects the identified issues, in
 
 ## Group B: **Prepare Slides for the Working Group (WG) meeting**
 
-* Participants will prepare a slide deck for a WG meeting based on an assigned draft.  
-* Discuss how to present technical proposals, list open issues, and engage effectively in the WG meeting.  
-* Deliverable: A structured slide deck for the WG meeting.
+* Participants will review and fix a slide deck for a WG meeting based on an assigned draft.  
+* Discuss the issues with the provided slide deck and discuss how to present proposals and engage effectively in the WG meeting.  
+* Deliverable: A summary of key issues and a better structured slide deck for the WG meeting which will be presented by the group leader.
 * Mentor: TBD
 
 ### Initial Material
 
+[Draft](https://dhruvdhody.github.io/draft-dhody-coffee-at-ietf/draft-dhody-coffee-at-ietf.html)
+[Slides](https://docs.google.com/presentation/d/1jfbyscI7XAnpSXO65LUerM_JM1npP9se/edit?usp=sharing&ouid=106264033400188371525&rtpof=true&sd=true)
+
 ### Guidance and Tips
 
+When reviewing slides, focus on readability and identifying common mistakes in slides preperation. 
+
 ### Deliverable
+
+- Unreadable slides – Tiny text, poor contrast, and cluttered information.
+- Proprietary & Confidential footer – Added inappropriate disclaimers.
+- Huawei company logo – Unacceptable branding in IETF slides.
+- Too much corporate language – Unclear if it’s an open standards discussion.
+- Lack of clear structure – No proper agenda, problem statement, or conclusion.
+
+### Another option for this group
+
+- Prepare slides for this I-D [SOON](https://www.ietf.org/archive/id/draft-farrel-soon-08.html) or something similar?
 
 ## Group C: **Improve a Birds-of-a-Feather (BoF) Proposal and Proposed Charter**
 
@@ -117,4 +132,5 @@ Produce an improved version of the draft that corrects the identified issues, in
 * Write an I-D from scratch  
 * Do directorate-specific review  
 * Role-Playing a WG meeting
+* Prepare Slides for the Working Group (WG) meeting
 
