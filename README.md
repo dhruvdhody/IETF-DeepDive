@@ -55,7 +55,7 @@ This session is designed to **simulate real IETF collaboration**, encourage acti
 # Breakout Activity
 
 * Group A: Review and Fix an Internet-Draft (I-D)  
-* Group B: Prepare Slides for the Working Group (WG) meeting  
+* Group B: Review and Fix Slides for the IETF meeting  
 * Group C: Improve a Birds-of-a-Feather (BoF) Proposal and Proposed Charter
 
 ## Group A: **Review and Fix an Internet-Draft (I-D)**
@@ -71,7 +71,7 @@ See [Draft](https://dhruvdhody.github.io/draft-dhody-coffee-at-ietf/draft-dhody-
 
 ### Guidance and Tips
 
-When reviewing the draft, focus on identifying common mistakes and inconsistencies that need to be addressed. Is the draft consistent with the way IETF works? 
+When you look over the draft, focus on identifying common mistakes and inconsistencies that need to be addressed. Is the draft consistent with the way IETF works? 
 
 ### Deliverable
 
@@ -84,10 +84,10 @@ Produce an improved version of the draft that corrects the identified issues, in
 - Ensuring all required sections are included
 - Correcting formatting and author details
 
-## Group B: **Prepare Slides for the Working Group (WG) meeting**
+## Group B: **Review and Fix Slides for the IETF meeting**
 
-* Participants will review and fix a slide deck for a WG meeting based on an assigned draft.  
-* Discuss the issues with the provided slide deck and discuss how to present proposals and engage effectively in the WG meeting.  
+* Participants will review and fix a slide deck for the IETF meeting based on an assigned draft.  
+* Discuss the issues with the provided slide deck and strategise how to present the draft best.  
 * Deliverable: A summary of key issues and a better structured slide deck for the WG meeting which will be presented by the group leader.
 * Mentor: TBD
 
@@ -96,7 +96,8 @@ Produce an improved version of the draft that corrects the identified issues, in
 [Draft](https://dhruvdhody.github.io/draft-dhody-coffee-at-ietf/draft-dhody-coffee-at-ietf.html)
 
 [Slides](https://docs.google.com/presentation/d/1jfbyscI7XAnpSXO65LUerM_JM1npP9se/edit?usp=sharing&ouid=106264033400188371525&rtpof=true&sd=true)
-In case the above link does not work, a snapshot is available [here](./Bad_IETF_Presentation.pptx.pdf)
+
+Note that, if the Google Slides link does not work, a snapshot is also available [here](./Bad_IETF_Presentation.pptx.pdf).
 
 ### Guidance and Tips
 
