@@ -129,6 +129,8 @@ When reviewing slides, focus on readability and identifying common mistakes in s
 
 ### Guidance and Tips
 
+Review BoF Request to make sure it provides relevant information to IESG/IAB. Review proposed charter for the WG for readability and scoping the work. 
+
 ### Deliverable
 - The scope is vague
 - Lack of clear deliverables – What concrete RFCs or documents will be produced?
