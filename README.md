@@ -12,7 +12,7 @@ This session will be conducted in an **interactive breakout format**, where part
 
 # Agenda & Timeline
 
-**1️⃣ Introduction to Groups & Tasks (15 mins) – ALL Participants**
+**1️⃣ Introduction to Breakout Groups & Tasks (15 mins) – ALL Participants**
 
 * The session moderator will introduce the three breakout groups (A, B, & C) and explain the assigned tasks.  
 * Each group will meet their designated mentor, who will support them during the discussion.
@@ -63,6 +63,7 @@ This session is designed to **simulate real IETF collaboration**, encourage acti
 * Participants will review a sample I-D, identify areas for improvement, and suggest edits.  
 * Focus areas: accuracy, clarity, formatting, and alignment with IETF best practices.  
 * Deliverable: A summary of key issues and proposed fixes to be presented.
+* Mentor:
 
 ### Initial Material
 
@@ -72,9 +73,10 @@ This session is designed to **simulate real IETF collaboration**, encourage acti
 
 ## Group B: **Prepare Slides for the Working Group (WG) meeting**
 
-* Participants will prepare a slide deck for a WG meeting based on an assigned draft  
-* Discuss how to present technical proposals, list open issues, and engage effectively in the WG meeting  
+* Participants will prepare a slide deck for a WG meeting based on an assigned draft.  
+* Discuss how to present technical proposals, list open issues, and engage effectively in the WG meeting.  
 * Deliverable: A structured slide deck for the WG meeting.
+* Mentor:
 
 ### Initial Material
 
@@ -87,6 +89,7 @@ This session is designed to **simulate real IETF collaboration**, encourage acti
 * Participants will examine an existing BoF proposal and proposed charter.  
 * Discuss how to justify the need for a BoF meeting to the IESG/IAB and refine the charter’s scope, objectives and milestones.  
 * Deliverable: An improved BoF proposal and charter with clear problem statement, scope and justification.
+* Mentor:
 
 ### Initial Material
 
