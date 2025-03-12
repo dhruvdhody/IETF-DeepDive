@@ -137,12 +137,23 @@ When reviewing slides, focus on readability and identifying common mistakes in s
 Review BoF Request to make sure it provides relevant information to IESG/IAB. Review proposed charter for the WG for readability and scoping the work. 
 
 ### Deliverable
+#### BoF Request
+- Description does not provide any useful information
+- Need clear information on the proponents
+- Justification for the need of a BoF
+- Not taking sheduling information such as conflicts seriously
+- No relevant information provided to IAB/IESG
+- No draft agenda
+- No mailing list (dont do a BoF before that)
+- Need URL to more drafts to explain the problems, scope, use-cases and a possibility of a proposed solution.
+
+#### Proposed Charter
 - The scope is vague
 - Lack of clear deliverables – What concrete RFCs or documents will be produced?
 - Unrealistic scope creep
 - Lack of milestones
 - Lack of focus
-- Boundary with other
+- Boundary with other WG
 
 ##  Other Backup Ideas for breakouts
 
