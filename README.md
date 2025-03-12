@@ -54,9 +54,9 @@ This session is designed to **simulate real IETF collaboration**, encourage acti
 
 # Breakout Activity
 
-* Group A: Review and Fix an Internet-Draft (I-D)  
-* Group B: Review and Fix Slides for the IETF meeting  
-* Group C: Improve a Birds-of-a-Feather (BoF) Proposal and Proposed Charter
+* Group A: **Review and Fix an Internet-Draft (I-D)**  
+* Group B: **Review and Fix Slides for the IETF meeting**  
+* Group C: **Improve a Birds-of-a-Feather (BoF) Proposal and Proposed Charter**
 
 ## Group A: **Review and Fix an Internet-Draft (I-D)**
 
@@ -80,9 +80,10 @@ Produce an improved version of the draft that corrects the identified issues, in
 - Fixing RFC 2119 usage and boilerplate formatting
 - Revising scope-related issues to align with IETF principles
 - Adding a proper Security Considerations section
-- Improving the Abstract for better clarity
+- Improving the Abstract for better clarity, no MUST in abstract
 - Ensuring all required sections are included
 - Correcting formatting and author details
+- Unclear purpose of the document?
 
 ## Group B: **Review and Fix Slides for the IETF meeting**
 
