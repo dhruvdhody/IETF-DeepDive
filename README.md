@@ -157,7 +157,7 @@ Review BoF Request to make sure it provides relevant information to IESG/IAB. Re
 
 ##  Other Backup Ideas for breakouts
 
-* Analyze an IETF mailing list discussion thread   
+* Analyze an IETF mailing list discussion thread - judge rough consesnses as a co-chair role
 * Handle a DISCUSS on the draft  
 * Write an I-D from scratch  
 * Do directorate-specific review  
