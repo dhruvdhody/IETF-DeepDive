@@ -107,10 +107,12 @@ When reviewing slides, focus on readability and identifying common mistakes in s
 ### Deliverable
 
 - Unreadable slides – Tiny text, poor contrast, and cluttered information.
-- Proprietary & Confidential footer – Added inappropriate disclaimers.
+- Proprietary & Confidential footer – inappropriate.
 - Company logo – Unacceptable branding in IETF slides.
+- Cut-copy-paste from draft as it is!
 - Too much text
 - No clarity
+- Note: nothing wrong with having a bit of humour (but may be better to avoid religion/race/sex)
 - BONUS: identify issues with I-D 
 
 ### Another option for this group
