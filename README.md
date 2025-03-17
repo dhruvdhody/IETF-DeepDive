@@ -73,7 +73,7 @@ See [Draft](https://dhruvdhody.github.io/draft-dhody-coffee-at-ietf/draft-dhody-
 
 When you look over the draft, focus on identifying common mistakes and inconsistencies that need to be addressed. Is the draft consistent with the way IETF works? 
 
-### Deliverable
+### Deliverable (only for mentor eyes)
 
 Produce an improved version of the draft that corrects the identified issues, including:
 
@@ -104,7 +104,7 @@ Note that, if the Google Slides link does not work, a snapshot is also available
 
 When reviewing slides, focus on readability and identifying common mistakes in slides preparation and presentations. 
 
-### Deliverable
+### Deliverable (only for mentor eyes)
 
 - Unreadable slides – Tiny text, poor contrast, and cluttered information.
 - Proprietary & Confidential footer – inappropriate.
@@ -136,7 +136,7 @@ When reviewing slides, focus on readability and identifying common mistakes in s
 
 Review BoF Request to make sure it provides relevant information to IESG/IAB. Review proposed charter for the WG for readability and scoping the work. 
 
-### Deliverable
+### Deliverable (only for mentor eyes)
 #### BoF Request
 - Description does not provide any useful information
 - Need clear information on the proponents
