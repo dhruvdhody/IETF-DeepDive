@@ -145,7 +145,7 @@ Review BoF Request to make sure it provides relevant information to IESG/IAB. Re
 - No relevant information provided to IAB/IESG
 - No draft agenda
 - No mailing list (dont do a BoF before that)
-- Need URL to more drafts to explain the problems, scope, use-cases and a possibility of a proposed solution.
+- Need URL to more drafts to explain the problems, scope, use cases and possibility of a proposed solution.
 
 #### Proposed Charter
 - The scope is vague
@@ -157,11 +157,14 @@ Review BoF Request to make sure it provides relevant information to IESG/IAB. Re
 
 ##  Other Backup Ideas for breakouts
 
-* Analyze an IETF mailing list discussion thread - judge rough consesnses as a co-chair role
+* Analyze an IETF mailing list discussion thread - judge rough consensus as a co-chair role
 * Handle a DISCUSS on the draft  
 * Write an I-D from scratch  
 * Do directorate-specific review  
 * Role-Playing a WG meeting
 * Prepare Slides for the Working Group (WG) meeting
-* Play with the Sandbox! 
+* Play with the Sandbox!
+* IAB Workshop proposal - Make it more real!~
+* Send reviews to the real draft!
+* 
 
