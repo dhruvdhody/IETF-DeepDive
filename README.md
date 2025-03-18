@@ -163,4 +163,5 @@ Review BoF Request to make sure it provides relevant information to IESG/IAB. Re
 * Do directorate-specific review  
 * Role-Playing a WG meeting
 * Prepare Slides for the Working Group (WG) meeting
+* Play with the Sandbox! 
 
