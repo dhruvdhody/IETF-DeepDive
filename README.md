@@ -73,17 +73,7 @@ See [Draft](https://dhruvdhody.github.io/draft-dhody-coffee-at-ietf/draft-dhody-
 
 When you look over the draft, focus on identifying common mistakes and inconsistencies that need to be addressed. Is the draft consistent with the way IETF works? 
 
-### Deliverable (only for mentor eyes)
-
-Produce an improved version of the draft that corrects the identified issues, including:
-
-- Fixing RFC 2119 usage and boilerplate formatting
-- Revising scope-related issues to align with IETF principles
-- Adding a proper Security Considerations section
-- Improving the Abstract for better clarity, no MUST in abstract
-- Ensuring all required sections are included
-- Correcting formatting and author details
-- Unclear purpose of the document?
+### Deliverable (only for mentor eyes) <--- removed
 
 ## Group B: **Review and Fix Slides for the IETF meeting**
 
@@ -104,16 +94,7 @@ Note that, if the Google Slides link does not work, a snapshot is also available
 
 When reviewing slides, focus on readability and identifying common mistakes in slides preparation and presentations. 
 
-### Deliverable (only for mentor eyes)
-
-- Unreadable slides – Tiny text, poor contrast, and cluttered information.
-- Proprietary & Confidential footer – inappropriate.
-- Company logo – Unacceptable branding in IETF slides.
-- Cut-copy-paste from draft as it is!
-- Too much text
-- No clarity
-- Note: nothing wrong with having a bit of humour (but may be better to avoid religion/race/sex)
-- BONUS: identify issues with I-D 
+### Deliverable (only for mentor eyes) <--- removed
 
 ### Another option for this group
 
@@ -136,35 +117,8 @@ When reviewing slides, focus on readability and identifying common mistakes in s
 
 Review BoF Request to make sure it provides relevant information to IESG/IAB. Review proposed charter for the WG for readability and scoping the work. 
 
-### Deliverable (only for mentor eyes)
-#### BoF Request
-- Description does not provide any useful information
-- Need clear information on the proponents
-- Justification for the need of a BoF
-- Not taking sheduling information such as conflicts seriously
-- No relevant information provided to IAB/IESG
-- No draft agenda
-- No mailing list (dont do a BoF before that)
-- Need URL to more drafts to explain the problems, scope, use cases and possibility of a proposed solution.
+### Deliverable (only for mentor eyes) <--- removed
 
-#### Proposed Charter
-- The scope is vague
-- Lack of clear deliverables – What concrete RFCs or documents will be produced?
-- Unrealistic scope creep
-- Lack of milestones
-- Lack of focus
-- Boundary with other WG
 
-##  Other Backup Ideas for breakouts
-
-* Analyze an IETF mailing list discussion thread - judge rough consensus as a co-chair role
-* Handle a DISCUSS on the draft  
-* Write an I-D from scratch  
-* Do directorate-specific review  
-* Role-Playing a WG meeting
-* Prepare Slides for the Working Group (WG) meeting
-* Play with the Sandbox!
-* IAB Workshop proposal - Make it more real!~
-* Send reviews to the real draft!
-* 
+##  Other Backup Ideas for breakouts <--- moved to issues
 
