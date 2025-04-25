@@ -40,19 +40,14 @@
 - If you believe you have been harassed, notice that someone else is being harassed, or have any other concerns, you are encouraged to raise your concern in confidence with one of the ombudsteam (https://www.ietf.org/contact/ombudsteam/).
 
 ### Question: What is an Ombudsperson?
-The IETF Ombudsteam allows you to confidentially report and raise concerns about harassment and other conduct within the IETF.
-There are 5 Ombudspersons:
-Allison Mankin  (allison.mankin at gmail.com)
-appointed 1 April 2016
-Avri Doria  (avri at acm.org)
-appointed 21 November 2023
-Pete Resnick  (resnick at episteme.net)
-appointed 1 April 2016
-Shivan Sahib  (shivankaulsahib at gmail.com)
-appointed 21 November 2023
-Sofia Celi (cherenkov at riseup.net)
-appointed 21 November 2023
-The Ombudsteam follows [published procedures](https://www.ietf.org/contact/ombudsteam/procedures/) for how they document, communicate, intake, and investigate reports they receive.
+- The IETF Ombudsteam allows you to confidentially report and raise concerns about harassment and other conduct within the IETF.
+- There are 5 Ombudspersons:
+    - Allison Mankin  (allison.mankin at gmail.com); appointed 1 April 2016
+    - Avri Doria  (avri at acm.org); appointed 21 November 2023
+    - Pete Resnick  (resnick at episteme.net); appointed 1 April 2016
+    - Shivan Sahib  (shivankaulsahib at gmail.com); appointed 21 November 2023
+    - Sofia Celi (cherenkov at riseup.net); appointed 21 November 2023
+- The Ombudsteam follows [published procedures](https://www.ietf.org/contact/ombudsteam/procedures/) for how they document, communicate, intake, and investigate reports they receive.
 
 ### Question: What are the IETF Principles?
 The IETF pursues its mission in adherence to the following cardinal principles:
@@ -66,33 +61,37 @@ The IETF pursues its mission in adherence to the following cardinal principles:
 - The IETF publishes its technical documentation as RFCs, an acronym for their historical title Requests for Comments. They describe the Internet's technical foundations, such as addressing, routing, and transport technologies. RFCs also specify protocols like TLS 1.3, QUIC, and WebRTC that are used to deliver services used by billions of people every day, such as real-time collaboration, email, and the domain name system.
 - Software developers, hardware manufacturers, and network operators around the world voluntarily implement and adopt the technical specifications and best practices described by RFCs.
 The [RFC Editor](https://www.rfc-editor.org/) website is the authoritative site for RFCs. The IETF Datatracker provides transparency on the process that resulted in the publication of each RFC.
-For more information see .
-### Question: Which is the Work in IETF?
-The work of the IETF is to produce technical documents (RFCs) that define how Internet technology works in detail, and can be operated and managed at scale.
-New work in the IETF begins with one or more participants producing a discussion document called an Internet-Draft (I-D) and then working to get that I-D adopted for further work. Anyone can write an Internet-Draft on any topic they believe is relevant to the IETF. There are different routes that an I-D can follow to be adopted, worked on and eventually become an RFC.
-The IETF has  about Intellectual Property Rights (IPR) that are designed to ensure that IETF participants have as much information as possible about any IPR constraints on a technical proposal as early as possible in the development process.
-### Question: Where is the IETF Work done?
-The majority of the IETF's work is done in . 
+For more information see [About RFCs](https://www.ietf.org/process/rfcs/).
 
-A Working Group (WG) has its own mailing list with most of its interaction, and all of it official work, conducted on this list. The day to day work of WGs revolves around Internet-Drafts and over time the WG shapes them into RFCs. Decisions within WGs, as with the broader IETF, are taken by 'rough consensus' and not by voting. When a WG has finished with an I-D it goes through a process to ensure that it has approval from the appointed technical leadership and the consensus support of the IETF as a whole.
-When an I-D has cleared all the hurdles to become an RFC it goes through a professional editorial process and is then assigned a number and published in a range of formats.
+### Question: Which is the Work in IETF?
+- The work of the IETF is to produce technical documents (RFCs) that define how Internet technology works in detail, and can be operated and managed at scale.
+- New work in the IETF begins with one or more participants producing a discussion document called an Internet-Draft (I-D) and then working to get that I-D adopted for further work. Anyone can write an Internet-Draft on any topic they believe is relevant to the IETF. There are different routes that an I-D can follow to be adopted, worked on and eventually become an RFC.
+- The IETF has [policies](https://www.rfc-editor.org/rfc/rfc8179.html) about Intellectual Property Rights (IPR) that are designed to ensure that IETF participants have as much information as possible about any IPR constraints on a technical proposal as early as possible in the development process.
+
+### Question: Where is the IETF Work done?
+- The majority of the IETF's work is done in [Working Groups](https://datatracker.ietf.org/wg/).  
+
+- A Working Group (WG) has its own mailing list with most of its interaction, and all of it official work, conducted on this list. The day to day work of WGs revolves around Internet-Drafts and over time the WG shapes them into RFCs. Decisions within WGs, as with the broader IETF, are taken by 'rough consensus' and not by voting. When a WG has finished with an I-D it goes through a process to ensure that it has approval from the appointed technical leadership and the consensus support of the IETF as a whole.
+- When an I-D has cleared all the hurdles to become an RFC it goes through a professional editorial process and is then assigned a number and published in a range of formats.
+  
 ### Question: What are the IETF Meetings? 
-The IETF holds three week-long meetings a year. Onsite participation averages between 1000 and 1500 participants. Every effort is made to integrate the 600+ remote participants into the overall meeting experience.
-IETF meetings are very different from standard industry conferences as they are working meetings with the primary goal of helping Working Groups (WGs) get their tasks done, and the secondary goal of promoting mixing among the WGs. For that reason, most of the agenda is comprised of multiple simultaneous sessions for Working Groups. There is no exposition hall and only a small section of the agenda is set aside for tutorials, industry presentations, panel sessions, and opportunities for the whole community to come together.
+- The IETF holds three week-long meetings a year. Onsite participation averages between 1000 and 1500 participants. Every effort is made to integrate the 600+ remote participants into the overall meeting experience.
+- IETF meetings are very different from standard industry conferences as they are working meetings with the primary goal of helping Working Groups (WGs) get their tasks done, and the secondary goal of promoting mixing among the WGs. For that reason, most of the agenda is comprised of multiple simultaneous sessions for Working Groups. There is no exposition hall and only a small section of the agenda is set aside for tutorials, industry presentations, panel sessions, and opportunities for the whole community to come together.
 
 ### Question: Who Participates in IETF meetings:
-IETF meetings are of high interest to engineers, developers, academics, researchers, and interested individuals from:
-Vendors. Employees of networking hardware and software vendors are often the IETF particiants writing the protocols and leading the Working Groups. If you create Internet hardware or software, or run a service available on the Internet, and no one from your company has ever attended an IETF meeting, it behooves you to come to a meeting if for no other reason than to tell the others in your company how relevant the meeting was or was not to your business.
-Operators. A fair amount of IETF work covers many parts of the operations of ISPs, social media platforms, streaming media companies, large enterprises, and specialist industries such as domain name registries and registrars. The IETF has several WGs focused on operations, in addition to many relevant protocols under development. For example, the IETF is increasingly working on encrypting network traffic, which has significant implications for operators. Many of the best operations documents from the IETF come from real-world operators.
-Academia. IETF meetings are often excellent places for all kinds of academics and researchers to find out what is happening in the way of soon-to-be-deployed protocols, and networking architecture and infrastructure. Professors and grad students (and sometimes overachieving undergrads) who are doing research in networking or communications can get a wealth of information by following Working Groups in their specific fields of interest. Wandering into different Working Group meetings can have the same effect as going to symposia and seminars in your department. The Internet Research Task Force () meets concurrently with the IETF and IRTF  (analogous to WGs) are of high interest to researchers. There is also an annual  held in conjunction with an IETF meeting.
-Contractors/Consultants. There is as small and active number of technical contractors/consultants who specialize in Internet standards development, or an aspect of it, such as cryptography. These contractors are often empoloyed by organisations for whom standards development is a peripheral rather than a core activity, such as governments.
-Interested individuals. There are many people who participate solely as individuals with no direct link to their employment. A key principle of the IETF is that participation is as an individual not a formal representative of an employer, and so interested individuals have as much opportunity to contribute as anyone else.
-Civil Society. A few people from civil society organizations participate in the IETF looking at the parts of IETF work that have broader policy implications.
-Given that IETF meetings are very different from trade conferences or learning/training-based conferences, there are some roles who would probably get little benefit from participating:
-IETF meetings are not designed or intended for sales and marketing people. There are no sales booths, no advertising is permitted and there are no opportunities for marketing presentations.
-As the IETF is a technical organization, there are rarely any opportunities for non-technical policy makers or policy advocates to contribute.
-If your intention is to find out what will be hot in the Internet industry next year, you can safely assume that coming to an IETF meeting will confuse you more than it will help you understand what is happening, or will be happening, in the industry.
-Finally, please note there are many people who have been very active and very productive in the IETF who have never attended an IETF meeting, and you should not feel obligated to come to an IETF meeting in order to contribute.
+- IETF meetings are of high interest to engineers, developers, academics, researchers, and interested individuals from:
+    - Vendors. Employees of networking hardware and software vendors are often the IETF particiants writing the protocols and leading the Working Groups. If you create Internet hardware or software, or run a service available on the Internet, and no one from your company has ever attended an IETF meeting, it behooves you to come to a meeting if for no other reason than to tell the others in your company how relevant the meeting was or was not to your business.
+    - Operators. A fair amount of IETF work covers many parts of the operations of ISPs, social media platforms, streaming media companies, large enterprises, and specialist industries such as domain name registries and registrars. The IETF has several WGs focused on operations, in addition to many relevant protocols under development. For example, the IETF is increasingly working on encrypting network traffic, which has significant implications for operators. Many of the best operations documents from the IETF come from real-world operators.
+    - Academia. IETF meetings are often excellent places for all kinds of academics and researchers to find out what is happening in the way of soon-to-be-deployed protocols, and networking architecture and infrastructure. Professors and grad students (and sometimes overachieving undergrads) who are doing research in networking or communications can get a wealth of information by following Working Groups in their specific fields of interest. Wandering into different Working Group meetings can have the same effect as going to symposia and seminars in your department. The Internet Research Task Force (IRTF) meets concurrently with the IETF and IRTF Research Groups (analogous to WGs) are of high interest to researchers. There is also an annual Applied Networking Research Workshop held in conjunction with an IETF meeting.
+    - Contractors/Consultants. There is as small and active number of technical contractors/consultants who specialize in Internet standards development, or an aspect of it, such as cryptography. These contractors are often empoloyed by organisations for whom standards development is a peripheral rather than a core activity, such as governments.
+    - Interested individuals. There are many people who participate solely as individuals with no direct link to their employment. A key principle of the IETF is that participation is as an individual not a formal representative of an employer, and so interested individuals have as much opportunity to contribute as anyone else.
+    - Civil Society. A few people from civil society organizations participate in the IETF looking at the parts of IETF work that have broader policy implications.
+  
+- Given that IETF meetings are very different from trade conferences or learning/training-based conferences, there are some roles who would probably get little benefit from participating:
+    - IETF meetings are not designed or intended for sales and marketing people. There are no sales booths, no advertising is permitted and there are no opportunities for marketing presentations.
+    - As the IETF is a technical organization, there are rarely any opportunities for non-technical policy makers or policy advocates to contribute.
+    - If your intention is to find out what will be hot in the Internet industry next year, you can safely assume that coming to an IETF meeting will confuse you more than it will help you understand what is happening, or will be happening, in the industry.
+- Finally, please note there are many people who have been very active and very productive in the IETF who have never attended an IETF meeting, and you should not feel obligated to come to an IETF meeting in order to contribute.
 
 ### Question: How to register for the IETF Meetings?
 To participate in an IETF meeting, either onsite or remotely, you have to register and pay a registration fee. If you cannot afford the online registration fee, you can apply for a fee waiver to then apply during the registration process. There are different fee schedules for early-bird, latecomers, single-day passes, students, and so on. The general registration fee covers all of the week's meetings, except the , which is an additional ticket purchased through the registration system. The registration system also provides the options to register for the  and .
